@@ -1,5 +1,4 @@
 # Semiconductor-FJSP
-Constraints
 
 University project (Budapest University of Technology and Economics, 2026) on scheduling a semiconductor wafer fab,
 modelled as a flexible job-shop scheduling problem (FJSP).
@@ -14,4 +13,4 @@ these operations on a finite set of tools while respecting:
 - **Sequence-dependent setups:** changeover time depends on the previous recipe
 - **Metrology sampling and rework:** sampled lots are measured, and out-of-spec results can send them back for rework
 
-Team: Zubonyai Kolos, Tőkey Bálint Ábel
+Team: Kolos Benedek Zubonyai, Bálint Ábel Tőkey
